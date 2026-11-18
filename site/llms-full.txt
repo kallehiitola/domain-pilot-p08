@@ -1,0 +1,26 @@
+# How many lumens do i need
+
+> Estimate a total light-output budget from room area and your chosen illuminance target. Include utilization and maintenance assumptions without confusing fixture lumens with light reaching the room’s working plane.
+
+## Calculator
+- [Open the calculator](https://measurewren.com/): A 20 m² room at 150 lux requires 3,000 lm at the target plane; at 0.70 utilization and 0.90 maintenance, the installed budget is about 4,762 lm.
+
+## Method
+Area multiplied by lux gives lumens reaching the target plane. Divide that by utilization multiplied by maintenance fraction for an estimated installed lumen budget. In US units, one foot-candle is one lumen per square foot.
+
+## Limits
+The example illuminance is not a recommendation for every room. Task lighting, surface reflectance, daylight, beam distribution, glare and measurement-plane height all affect a real design. This estimates a lumen budget and does not certify a compliant lighting design.
+
+## Supporting pages
+- [Method and assumptions](https://measurewren.com/method/)
+- [About, editorial responsibility and privacy](https://measurewren.com/about/)
+
+## Sources
+- [NIST: SI units and measurement](https://www.nist.gov/pml/owm/metric-si/si-units)
+
+## Worked examples
+### Example 1
+A 20 m² room at 150 lux requires 3,000 lm at the target plane; at 0.70 utilization and 0.90 maintenance, the installed budget is about 4,762 lm.
+
+### Example 2
+A 16 m² room at 100 lux with both fractions set to one gives 1,600 lm.
