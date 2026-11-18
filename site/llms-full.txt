@@ -5,6 +5,9 @@
 ## Calculator
 - [Open the calculator](https://measurewren.com/): A 20 m² room at 150 lux requires 3,000 lm at the target plane; at 0.70 utilization and 0.90 maintenance, the installed budget is about 4,762 lm.
 
+## Guide
+- [How to how many lumens do i need](https://measurewren.com/guide/): measurement inputs, formula, assumptions, limits and a worked example.
+
 ## Method
 Area multiplied by lux gives lumens reaching the target plane. Divide that by utilization multiplied by maintenance fraction for an estimated installed lumen budget. In US units, one foot-candle is one lumen per square foot.
 
