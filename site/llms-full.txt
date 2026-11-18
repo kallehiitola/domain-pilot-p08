@@ -1,4 +1,4 @@
-# How many lumens do i need
+# How many lumens do I need?
 
 > Estimate a total light-output budget from room area and your chosen illuminance target. Include utilization and maintenance assumptions without confusing fixture lumens with light reaching the room’s working plane.
 
@@ -6,7 +6,7 @@
 - [Open the calculator](https://measurewren.com/): A 20 m² room at 150 lux requires 3,000 lm at the target plane; at 0.70 utilization and 0.90 maintenance, the installed budget is about 4,762 lm.
 
 ## Guide
-- [How to how many lumens do i need](https://measurewren.com/guide/): measurement inputs, formula, assumptions, limits and a worked example.
+- [How to work out how many lumens a room needs](https://measurewren.com/guide/): step-by-step measuring, common mistakes, formula, limits and a worked example.
 
 ## Method
 Area multiplied by lux gives lumens reaching the target plane. Divide that by utilization multiplied by maintenance fraction for an estimated installed lumen budget. In US units, one foot-candle is one lumen per square foot.
@@ -20,6 +20,17 @@ The example illuminance is not a recommendation for every room. Task lighting, s
 
 ## Sources
 - [NIST: SI units and measurement](https://www.nist.gov/pml/owm/metric-si/si-units)
+
+## Step by step
+1. Measure the room length and width to find the floor area.
+2. Choose a target light level in lux (or foot-candles) for the activity in the room.
+3. Set a utilization fraction for light lost to walls and fittings, and a maintenance fraction for dirt and lamp ageing.
+4. Total lumens = area × target lux ÷ (utilization × maintenance). Split the total across the fittings you plan to use.
+
+## Common mistakes
+- Confusing lumens, the light a lamp gives out, with lux, the light that lands on a surface.
+- Judging brightness by watts.
+- Planning only overall brightness. Worktops, desks and reading spots may need extra local light.
 
 ## Worked examples
 ### Example 1
