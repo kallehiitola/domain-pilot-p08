@@ -1,40 +1,59 @@
 # How many lumens do I need?
 
-> Estimate a total light-output budget from room area and your chosen illuminance target. Include utilization and maintenance assumptions without confusing fixture lumens with light reaching the room’s working plane.
+> Estimate your total room light-output budget in lumens from floor area, target illuminance (foot-candles or lux), and realistic utilization and maintenance losses.
 
 ## Calculator
-- [Open the calculator](https://measurewren.com/): A 20 m² room at 150 lux requires 3,000 lm at the target plane; at 0.70 utilization and 0.90 maintenance, the installed budget is about 4,762 lm.
+- [Open the calculator](https://measurewren.com/): US living room: a 16 × 12 ft (192 sq ft) room at 15 fc needs 2,880 delivered lm, or about 4,571 installed lm (roughly six 800-lm bulbs). Metric: a 20 m² room at 150 lux requires 3,000 lm on the target plane; at 0.70 utilization and 0.90 maintenance, install about 4,762 lm.
 
 ## Guide
-- [How to work out how many lumens a room needs](https://measurewren.com/guide/): step-by-step measuring, common mistakes, formula, limits and a worked example.
+- [How to work out how many lumens a room needs](https://measurewren.com/guide/): step-by-step measuring, common mistakes, and ordering checklist.
 
-## Method
-Area multiplied by lux gives lumens reaching the target plane. Divide that by utilization multiplied by maintenance fraction for an estimated installed lumen budget. In US units, one foot-candle is one lumen per square foot.
+## Formula and method
+Delivered lumens = room area × target illuminance; Installed lumen budget = delivered lumens / (utilization × maintenance).
+
+Multiply room area by your target illuminance (1 foot-candle = 1 lumen/ft²; 1 lux = 1 lumen/m²) to get the light needed at the working plane. Divide by utilization times maintenance fraction so the installed bulbs compensate for light absorbed by surfaces and gradual LED lumen depreciation.
 
 ## Limits
-The example illuminance is not a recommendation for every room. Task lighting, surface reflectance, daylight, beam distribution, glare and measurement-plane height all affect a real design. This estimates a lumen budget and does not certify a compliant lighting design.
+Room illuminance depends on wall reflectance, ceiling height, fixture beam spread, daylight, and glare control. Split the installed lumen budget across ambient ceiling fixtures and local task lighting rather than one harsh source. This is a planning estimate, not a code-certified lighting design.
 
 ## Supporting pages
 - [Method and assumptions](https://measurewren.com/method/)
 - [About, editorial responsibility and privacy](https://measurewren.com/about/)
 
 ## Sources
-- [NIST: SI units and measurement](https://www.nist.gov/pml/owm/metric-si/si-units)
+- [Engineering ToolBox: Recommended light levels by room](https://www.engineeringtoolbox.com/light-level-rooms-d_708.html)
+- [Wikipedia: Illuminance and lux definitions](https://en.wikipedia.org/wiki/Illuminance)
+- [Wikipedia: Lumen (SI unit of luminous flux)](https://en.wikipedia.org/wiki/Lumen_(unit))
+
+## Recommended room light levels and common LED bulb outputs
+
+Use these typical residential illuminance targets and standard LED replacement outputs to divide your room budget across fixtures.
+
+| Room or bulb reference | Foot-candles (lm/ft²) | Lux (lm/m²) | Equivalent LED bulb reference |
+| --- | --- | --- | --- |
+| Hallway / stairs | 5–10 fc | 50–100 lux | 40W eq. LED ≈ 450 lm (5–6 W) |
+| Bedroom / lounge | 10–20 fc | 100–200 lux | 60W eq. LED ≈ 800 lm (8–10 W) |
+| Dining room | 15–25 fc | 150–250 lux | 75W eq. LED ≈ 1,100 lm (11–13 W) |
+| Kitchen / bathroom | 30–50 fc | 300–500 lux | 100W eq. LED ≈ 1,600 lm (14–16 W) |
+| Home office / desk | 35–50 fc | 350–500 lux | 4 ft LED shop light ≈ 3,500–5,000 lm |
+| Workshop / fine tasks | 50–75 fc | 500–750 lux | Layer ambient + focused task lamp |
 
 ## Step by step
-1. Measure the room length and width to find the floor area.
-2. Choose a target light level in lux (or foot-candles) for the activity in the room.
-3. Set a utilization fraction for light lost to walls and fittings, and a maintenance fraction for dirt and lamp ageing.
-4. Total lumens = area × target lux ÷ (utilization × maintenance). Split the total across the fittings you plan to use.
+1. Measure room length and width in feet or meters to get the floor area.
+2. Pick a target light level in foot-candles (lumens per sq ft) or lux (lumens per m²) from the room reference table.
+3. Set a utilization fraction (commonly 0.65 to 0.75) for light lost to walls, furniture, and fixture housings—use a lower number in dark-painted rooms.
+4. Set a maintenance fraction (typically 0.85 to 0.90) to allow for dust and long-term lamp lumen depreciation.
+5. Divide the total installed lumen budget across your planned ceiling fixtures, sconces, and task lamps.
 
 ## Common mistakes
-- Confusing lumens, the light a lamp gives out, with lux, the light that lands on a surface.
-- Judging brightness by watts.
-- Planning only overall brightness. Worktops, desks and reading spots may need extra local light.
+- Confusing lumens (total light emitted by a bulb) with lux or foot-candles (light actually landing on a surface).
+- Shopping by wattage instead of the Lighting Facts lumen number on the bulb box.
+- Putting the entire lumen budget into one harsh overhead bulb instead of layering ambient, task, and accent lighting.
+- Using the same target brightness for a bedroom and a kitchen counter—tasks like food prep or drafting need 2× to 4× higher light levels.
 
 ## Worked examples
 ### Example 1
-A 20 m² room at 150 lux requires 3,000 lm at the target plane; at 0.70 utilization and 0.90 maintenance, the installed budget is about 4,762 lm.
+Metric: a 20 m² room at 150 lux requires 3,000 lm on the target plane; at 0.70 utilization and 0.90 maintenance, install about 4,762 lm.
 
 ### Example 2
-A 16 m² room at 100 lux with both fractions set to one gives 1,600 lm.
+US living room: a 16 × 12 ft (192 sq ft) room at 15 fc needs 2,880 delivered lm, or about 4,571 installed lm (roughly six 800-lm bulbs).
